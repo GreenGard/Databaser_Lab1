@@ -1,6 +1,10 @@
 # Databaser_Lab1
 
-###Assignment
+### Assignment
+
+In this task, we practiced retrieving and manipulating data and creating new ones
+tables from existing data in the database "laboration1"
+
 MoonMissions
 1. Use "CREATE TABLE..AS SELECT" to extract all columns for all successful
 mission (Successful outcome) in "MoonMissions" and insert in a new table with name
