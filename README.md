@@ -1,4 +1,11 @@
-# Databaser_Lab1
+
+# Course 2 Databaser | Databases
+# Laboratory 1: Retrieving and manipulating data and creating new tables from existing data
+
+#### In this laboratory , Retrieve and manipulating data and creating new tables from existing data in given database. 
+#### The laboratory exercise is presented in the form of an SQL script that solves the tasks step by step in the order described below. Each step should be clearly labeled with a comment, for example, "-- Task 1":
+
+//
 
 ### Assignment
 
